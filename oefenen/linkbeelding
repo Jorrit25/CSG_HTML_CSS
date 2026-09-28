@@ -1,3 +1,11 @@
-<!DOCTYPE html>
-<img src= "https://en.wikipedia.org/wiki/5_euro_note />
- 
+<body>
+    <h1>The Brown Bear</h1>
+     <div id="introduction">
+     <h2>About Brown Bears</h2>
+         <p>The brown bear (<em>Ursus arctos</em>) is native to parts of northern Eurasia and North America. Its conservation status is currently <strong>Least Concern</strong>.<br /><br /> There are many subspecies within the brown bear species, including the Atlas bear and the Himalayan brown bear.</p>
+          <ol>
+      <li>Russia</li>
+      <li>United States</li>
+      <li>Canada</li>
+    </ol>
+    
