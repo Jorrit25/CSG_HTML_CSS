@@ -1,22 +1,40 @@
 body {
-    background-color: rgba(112, 112, 112, 0.377);
+    background-image: url("https://4kwallpapers.com/images/wallpapers/dark-green-gradient-2560x2560-25340.jpg");
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
     margin: 0;
     padding: 0;
     text-align: center;
 }
-#article-title{
-    color: rgb(52, 94, 59);
+.inhoud {
+    width: min(90%, 900px);
+    margin: 0 auto;
+    padding: 1px 20px 30px;
+    box-sizing: border-box;
+    background-color: rgba(113,155, 119, 0.603);
+}
+h1{
+    color: rgb(113, 155, 119);
+    background-color: black;
+    margin: 0;
+    padding: 15px;
+    display: block;
+    text-align: center;
     font-size: 50px;
     font-family: 'Helvetica'
+   
+
     
 }
 h2{
+    color: white;
     font-family: 'Segoe UI'
 }
 
 table {
-    margin: 0 auto;
-    background-color: rgba(255, 255, 255, 0.8);
+    margin: 50px auto;
+    background-color: rgba(255, 255, 255, 0.603);
     border: 1px solid black;
     font-family: Courier New;
 }
@@ -33,6 +51,6 @@ ul {
 }
 #plaatje {
     display: block;
-    margin: 0 auto;
-    border: 2px solid black;
+    margin: 125px auto;
+    border: 5px solid rgba(0, 0, 0, 0.466);
 }
