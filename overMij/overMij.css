@@ -1,6 +1,39 @@
 body {
-    color: darkblue;
-    font-size: 4.5rem;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular',Geneva, Verdana, sans-serif;
-    font-variant: small-caps;
+    background-color: rgba(112, 112, 112, 0.377);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+head{
+    color: rgb(52, 94, 59);
+    font-size: 50px;
+    font-family: 'Instrument Serif'
+}
+h2{
+    font-family: 'Segoe UI'
+}
+
+table {
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid black;
+    text-align: center;
+    font-family: Courier New;
+}
+td,th {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+a {
+    color: black;
+    text-decoration: line;
+}
+ul {
+    text-align: left;
+}
+#plaatje {
+    display: block;
+    margin: 0 auto;
+    border: 2px solid black;
 }
