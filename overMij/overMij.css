@@ -4,10 +4,11 @@ body {
     padding: 0;
     text-align: center;
 }
-head{
+#article-title{
     color: rgb(52, 94, 59);
     font-size: 50px;
-    font-family: 'Instrument Serif'
+    font-family: 'Helvetica'
+    
 }
 h2{
     font-family: 'Segoe UI'
@@ -17,13 +18,11 @@ table {
     margin: 0 auto;
     background-color: rgba(255, 255, 255, 0.8);
     border: 1px solid black;
-    text-align: center;
     font-family: Courier New;
 }
 td,th {
     border: 1px solid black;
     padding: 10px;
-    text-align: center;
 }
 a {
     color: black;
